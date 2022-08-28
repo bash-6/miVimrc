@@ -1,0 +1,2 @@
+version service image environment ports
+POSTGRES_DB POSTGRES_USER POSTGRES_PASSWORD

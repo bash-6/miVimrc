@@ -1,0 +1,18 @@
+export
+string number boolean
+false true
+type enum
+Array isArray
+unknown
+interface
+toFixed
+toLowerCase
+class Promise
+public
+readonly void
+this push
+filter
+length
+extends
+default private static constructor
+implements
